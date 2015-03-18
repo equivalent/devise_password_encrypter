@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = DevisePasswordEncrypter::VERSION
   spec.authors       = ["Tomas Valent"]
   spec.email         = ["equivalent@eq8.eu"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{password encrypter}
+  spec.description   = %q{password encrypter extracted from Devise gem}
   spec.homepage      = ""
   spec.license       = "MIT"
 

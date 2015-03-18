@@ -1,20 +1,18 @@
 # DevisePasswordEncrypter
 
-TODO: Write a gem description
+password encrypter extracted from devise gem
+
+...work in progress
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'devise_password_encrypter'
+    gem 'devise_password_encrypter', github: 'equivalent/devise_password_encrypter'
 
 And then execute:
 
     $ bundle
-
-Or install it yourself as:
-
-    $ gem install devise_password_encrypter
 
 ## Usage
 
