@@ -1,0 +1,3 @@
+module DevisePasswordEncrypter
+  VERSION = "0.0.1"
+end
