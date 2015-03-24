@@ -1,6 +1,5 @@
 require 'devise_password_encrypter'
 require 'minitest/autorun'
-require 'bcrypt'
 
 describe described_class = DevisePasswordEncrypter::Encrypter do
   let(:subject) { described_class.new() }

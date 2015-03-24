@@ -19,6 +19,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_dependency "bcrypt", '~> 3.1.10'
+  spec.add_dependency "activesupport"  # used only for blank? so no spec version required
   spec.add_development_dependency "minitest", "~> 5"
   spec.add_development_dependency "bundler", "~> 1.6"
   spec.add_development_dependency "rake"
