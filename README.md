@@ -1,5 +1,7 @@
 # DevisePasswordEncrypter
 
+project abondend (for now) in favor of https://github.com/plataformatec/devise-encryptable
+
 password encrypter extracted from devise gem
 
 ...work in progress
